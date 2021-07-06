@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
  <h1>Hello world</h1>,
+ <h2>My world</h2>,
   document.getElementById('root')
 );
 
